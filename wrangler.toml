@@ -1,0 +1,7 @@
+name = "duckdb-wasm-react"
+compatibility_date = "2025-02-18"
+compatibility_flags = [ "nodejs_compat" ]
+pages_build_output_dir = "./dist"
+
+[env.production]
+compatibility_date = "2025-02-18"
